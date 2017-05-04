@@ -17,6 +17,9 @@ upload image for custom meme
 meme will be saved automatically-- display list of memems
 
 
+support multiple image merging
+
+
 
 
 
