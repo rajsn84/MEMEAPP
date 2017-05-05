@@ -23,6 +23,9 @@ support multiple image merging
 have all popular meme image for kill time--one place for all popular meme
 
 
+ability to share created meme photos to social network
+
+
 
 
 
