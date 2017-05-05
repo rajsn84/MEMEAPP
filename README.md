@@ -17,7 +17,7 @@ upload image for custom meme
 meme will be saved automatically-- display list of memems
 
 
-support multiple image merging
+support multiple image merging-- image college
 
 
 have all popular meme image for kill time--one place for all popular meme
